@@ -1,2 +1,2 @@
-# Entrevista_IFPR
+# Gazeta_IFPR
 Trabalho de Português - Entrevista 
