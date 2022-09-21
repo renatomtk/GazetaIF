@@ -1,0 +1,55 @@
+body {
+    margin: 0 auto;
+    width: 90%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo {
+    text-align: center;
+}
+
+.principal {
+    text-align: center
+}
+
+.principal h1 {
+    font-size: x-large;
+    text-align: center;
+}
+
+.principal h2 {
+    font-size: medium;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.principal h4 {
+    font-size: small;
+    text-align: center;
+}
+
+.img a img{
+    width: 638px;
+    height: 331px;
+}
+
+legend {
+    font-size: small;
+}
+
+.p {
+    margin: 0 auto;
+    text-align: justify;
+    width: 70%;
+    margin-top: 2%;
+    font-size: larger
+}
+
+@media screen and (max-width:700px) { 
+
+    .img a img {
+        width: 100%;
+        height: 90%;
+    }
+
+}
